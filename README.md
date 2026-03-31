@@ -1,9 +1,10 @@
 # siya25BCY10204
 This repository represents my name, branch, year and introduction
-#Name- 
+# Name- 
 Siya Dubey
-#Branch-
+# Branch-
 CSE (Cyber Security and Digital Forensic)
-#Year-
+# Year-
 1st year
-#Goal-#To learn skills and to get good job in future ,I hope to learn new skilld in technical field 
+# Goal- 
+To learn skills and to get good job in future ,I hope to learn new skilld in technical field 
